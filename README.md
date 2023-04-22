@@ -64,5 +64,5 @@ Here are some ideas to get you started:
       src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
   <a href="https://vk.com/nasstttt" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
-      alt="ynastt" height="30" width="40" /></a>
+      alt="ynastt" height="30" width="40" /></a>  
 </p>
