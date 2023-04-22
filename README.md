@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 <br>
 <h3 align="left">
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ynastt&show_icons=true&locale=en&theme=dark&background=000000" alt="ynastt" /> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ynastt&show_icons=true&locale=en&theme=dark&background=000000" alt="ynastt" /> 
 <!-- &nbsp; -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynastt&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="ynastt" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynastt&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="ynastt" /> -->
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynastt&theme=dark&" alt="ynastt" /></p>
