@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- :notebook: BMSTU ICS9 Student (3rd year) 
+- :notebook: BMSTU ICS9 Student
 
 <br>
 
