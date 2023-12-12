@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynastt&theme=dark&" alt="ynastt" /></p>
 <br> -->
 
-<h3 align="left">:mailbox_with_mail:How to reach me:</h3>
+<h3 align="left">📬How to reach me:</h3>
 <p align="left">
   <a href="https://t.me/ynastt" target="blank"><img align="center"
       src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
