@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynastt&theme=dark&" alt="ynastt" /></p>
-<br> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynastt&theme=dark&" alt="ynastt" /></p>
+<br>
 
 <h3 align="left">📬How to reach me:</h3>
 <p align="left">
