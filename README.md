@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - :notebook: BMSTU ICS9 Alumnus (bachelor's degree)
 - :books: MEPHI kaf42 Student (master's degree)
-- :computer: Golang developer at [AstraLinux](https://astralinux.ru/)
+- :computer: Golang developer at [Astra](https://astragroup.ru/)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
