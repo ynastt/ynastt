@@ -65,3 +65,5 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
       alt="ynastt" height="30" width="40" /></a> 
 </p>
+
+<img src="https://user-images.githubusercontent.com/70488161/223810581-63a68402-29c7-4e7e-9ada-618255fa80a1.gif" width=25% height=25%>
