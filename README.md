@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left", color='black'> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+<p align="left", color='black'> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
       alt="swift" width="40" height="40" /> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynastt&theme=dark&" alt="ynastt" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynastt&theme=dark&" alt="ynastt" /></p> -->
 <br>
 
 <h3 align="left">📬How to reach me:</h3>
