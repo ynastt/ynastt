@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- :notebook: BMSTU ICS9 Alumnus (bachelor's degree)
+- :notebook: BMSTU ICS9 (IU9) Alumnus (bachelor's degree)
 - :books: MEPHI kaf42 Student (master's degree)
 - :computer: Golang developer at [Astra](https://astragroup.ru/)
 <br>
