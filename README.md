@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 - 📚 I'm getting my master's degree in **Computer Science** in National Research Nuclear University MEPhI (Moscow Engineering Physics Institute) [kaf42](https://kaf42.mephi.ru/)
   
-- 💻 I'm working as a golang developer now in [Astra Group](https://astragroup.ru/)
+- 💻 I'm working as a golang developer now in [Astra Group](https://astra.ru/)
   
 - 👀 I’m interested in **Go Backend and ML**
   
